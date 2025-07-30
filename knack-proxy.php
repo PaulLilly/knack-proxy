@@ -1,4 +1,4 @@
-Knack-proxy.php
+
 
 <?php
 // Allow any domain (or restrict to Knack domain if preferred)
